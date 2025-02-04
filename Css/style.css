@@ -91,6 +91,8 @@ section {
   
 }
 
+
+
 .navitemHolder__item:hover {
   color: var(--Hover_color);
 }
@@ -101,6 +103,8 @@ section {
   align-items: center;
   column-gap: 9px;
 }
+
+
 
 .search__icon{
   height: 49px;
